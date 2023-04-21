@@ -1,7 +1,6 @@
 ### hey there 
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=notjustDevesh&label=Profile%20views&color=0e75b6&style=flat" alt="deveshpareek" /> </p>
 
 <br />
 
